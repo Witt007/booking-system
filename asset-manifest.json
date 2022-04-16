@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9652145.css",
+    "main.js": "/static/js/main.86b66882.js",
+    "static/js/787.037970d4.chunk.js": "/static/js/787.037970d4.chunk.js",
+    "static/media/home.png": "/static/media/home.871f399103a64d7c2486.png",
+    "static/media/expAdmin.png": "/static/media/expAdmin.e65c2bf78652537038ba.png",
+    "static/media/news.png": "/static/media/news.78f31027849dee2a0e1a.png",
+    "static/media/site.png": "/static/media/site.aa70715e60f15545d94b.png",
+    "static/media/connect.png": "/static/media/connect.8b40ae36d5e6a3e63cf6.png",
+    "static/media/settings.png": "/static/media/settings.98a783ba2778e81daa0c.png",
+    "static/media/addForm.png": "/static/media/addForm.27d3eaabd34a9eb86dbe.png",
+    "static/media/booking.png": "/static/media/booking.1457931ebe8e3d571225.png",
+    "static/media/admin.png": "/static/media/admin.7da4359955166f46d580.png",
+    "index.html": "/index.html",
+    "main.c9652145.css.map": "/static/css/main.c9652145.css.map",
+    "main.86b66882.js.map": "/static/js/main.86b66882.js.map",
+    "787.037970d4.chunk.js.map": "/static/js/787.037970d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9652145.css",
+    "static/js/main.86b66882.js"
+  ]
+}
